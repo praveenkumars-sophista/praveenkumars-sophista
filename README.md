@@ -1,5 +1,4 @@
-Here's a funny yet professional README file for you:
-# 📜 Praveenkumar.S – Code Whisperer and Bug Slayer
+# 📜 Praveenkumar.S – Code Whisperer, Bug Slayer, and Frontend Maestro
 
 ### 👋 About Me
 Hey there! I’m Praveenkumar.S, a Frontend Developer at **Sophista Software Solutions** and a relentless tinkerer in all things code. I make the web prettier, apps smoother, and bugs a little more nervous every day. Armed with a keyboard and fueled by copious amounts of caffeine, I’m on a journey to turn complex ideas into seamless experiences.
