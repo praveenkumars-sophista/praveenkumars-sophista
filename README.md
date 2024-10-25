@@ -17,8 +17,6 @@ Hey there! I’m Praveenkumar.S, a Software Developer at **Sophista Software Sol
 ### 📈 My Aspirations
 To one day become an independent tech pro, working with teams around the world and on my own terms. Oh, and to master unit testing without feeling like I’m battling the Code Hydra.
 
-Certainly! Here’s an updated *Hit Me Up* section with a few more points to make it engaging:
-
 ### 📫 Hit Me Up!
 Whether you’ve got a project, a problem, or just want to talk shop – I’m here for it. Let’s connect if you:
 
