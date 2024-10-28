@@ -4,9 +4,9 @@
 Hey there! I’m Praveenkumar.S, a Software Developer at **Sophista Software Solutions** and a relentless tinkerer in all things code. I make the web prettier, apps smoother, and bugs a little more nervous every day. Armed with a keyboard and fueled by copious amounts of caffeine, I’m on a journey to turn complex ideas into seamless experiences.
 
 ### 👨‍💻 Professional Superpowers
-- **Frontend Mastery**: Fluent in Angular, DotNet, Laravel, Electron.js, Ionic – if it’s about making an interface sparkle, I’m probably already on it.
+- **Frontend Mastery**: Fluent in Angular, Electron.js, Ionic – if it’s about making an interface sparkle, I’m probably already on it.
 - **API Wizardry**: Building slick web APIs is my jam! Currently crafting away on my pride and joy, **MyWebApiProviderApp**, with .NET 8.
-- **Backend Fundamentals**: MySQL and some Apache know-how, for those days when I like to flex my server-side skills.
+- **Backend Sorcerer**: DotNet, Laravel, MySQL, MsSQL and Apache, for those days when I like to flex my server-side skills.
 - **Currently Learning**: Nginx, Docker, WSL – because who doesn’t love more tools in the toolbox?
 
 ### 🛠️ Work Ethic (Translation: How I Code Without Losing My Mind)
